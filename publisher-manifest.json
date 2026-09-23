@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f6e09ac7aa1203e626aabb86",
+  "owner": "mkf8vh8",
+  "repo": "page-5ff40a68d5b61a12deb93071",
+  "title": "auVPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5ff40a68d5b61a12deb93071",
+      "a": "auVPN",
+      "b": "稳定全球clash加速器",
+      "entity": "auVPN",
+      "brand": "auVPN",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "40320d0a34c012b5ff055bf80cf3fd44ca98cf4cb180cc4e4c64555ec530bab4",
+      "content": {
+        "primary_entity": "auVPN",
+        "keyword1": "auVPN",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，auVPN 面向需要跨区域访问的桌面与移动用户，提供按月或按年订阅的流量套餐。基础版适合个人轻量使用，旗舰版侧重流媒体与游戏专线，团队版适配多设备协作场景。客户端以 Clash 订阅方式导入，完成配置后即可按所选套餐使用节点。",
+          "AI_HERO_SUBTITLE": "auVPN 多设备订阅与套餐选择",
+          "AI_HERO_INTRO": "auVPN 提供基础版、旗舰版与团队版三档订阅，覆盖每月 100GB 到 1000GB 流量，支持 3 台至 20 台设备同时在线。按年付可节省月付成本，旗舰版与团队版分别加入 IPLC 专线与高带宽节点，适合不同规模的使用需求。",
+          "AI_VISUAL_TITLE": "auVPN 套餐与客户端",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付方案降低月均支出",
+          "AI_HIGHLIGHT_3": "Clash 订阅导入多设备",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三方面对比套餐，再按实际使用场景选择。",
+          "AI_FEATURE_TITLE_1": "流量按需选",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合日常网页与轻度视频，旗舰版 300GB 兼顾流媒体与游戏，团队版 1000GB 满足多成员共享。",
+          "AI_FEATURE_TITLE_2": "设备数匹配",
+          "AI_FEATURE_TEXT_2": "同时在线设备从 3 台、5 台到 20 台，单人多设备选基础版或旗舰版，家庭与团队场景选团队版更合适。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付便于短期试用，年付以 ¥150、¥350、¥850 三档价格提供更低的月均成本，适合确定长期使用的用户。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "Clash 生态客户端覆盖主流桌面与移动系统，按设备类型选择对应版本，再导入订阅链接。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量与设备数逐级提升。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "先确定套餐与设备数量，再按客户端文档完成订阅导入。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数，在基础版、旗舰版和团队版之间选择，确认月付或年付周期。",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TEXT_2": "查看所用设备是否支持 Clash 客户端，确认系统版本与网络环境满足订阅导入条件。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "在客户端中添加订阅地址，更新节点列表后选择线路连接，即可按所选套餐使用对应节点资源。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐再连接",
+          "AI_CLOSING_TEXT": "比较三档套餐的流量与设备数，按使用规模完成订阅配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "auVPN 订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_1": "购买后获取订阅链接，在所用客户端中选择从链接导入或手动添加订阅，等待节点列表刷新即可。具体路径以对应客户端的操作说明为准。",
+          "AI_FAQ_QUESTION_2": "不同套餐的设备限制分别是多少？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量时可断开不用的设备，或升级到更高档位。",
+          "AI_FAQ_QUESTION_3": "每月 100GB 流量够用吗？",
+          "AI_FAQ_ANSWER_3": "轻度浏览、社交和邮件收发基本够用。若经常观看高码率视频或下载大文件，建议选择旗舰版 300GB 或团队版 1000GB。",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_4": "三档套餐均支持月付与年付。以基础版为例，月付 ¥15，年付 ¥150，相当于每月更低成本。长期使用选年付更划算。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线针对游戏加速与低延迟场景优化，适合对响应速度敏感的游戏、语音和实时协作。日常浏览也可使用基础版普通节点。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "4wn6ec.cn",
+    "host": "4wn6ec.cn"
+  },
+  "file_hashes": {
+    "index.html": "482bec62119f48948f3f0b333804801e501baf02f417d42b5786ccc42bef977b",
+    "sitemap.xml": "144e348db03bb3ca86c99da235c87e4f6f10fc9aeff6d6dd9de4da2f5f9d41f5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "40aa8b6e70b54f8afd2d4678666c4aacd68271917658180a2413caeddd2c9c33",
+    "robots.txt": "1c9ebdd3cc982611ca95b8bd435965279733fb2f7f9a43533a6e9501bad893bc",
+    "f6c3d9eaf2a7ca899a84c6d6e468c874.txt": "a36ee75cc5ea5b392df3333f09eb096ed362b0f4cd648939565b4e77fe26818b"
+  },
+  "revision": "92d3478d5fb0580565b8800361cbdf1821b0999c7e658c77c7dd810e0679e4e8"
+}
